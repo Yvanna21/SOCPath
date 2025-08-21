@@ -1,5 +1,5 @@
 ---
-title: SOCPath
+title:  SOCPath
 ---
 # SOCPath
 A journey to becoming a Junior SOC Analyst through projects and continuous learning
