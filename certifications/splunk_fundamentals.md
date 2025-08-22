@@ -13,7 +13,7 @@ Through these courses, I am building skills to detect incidents, investigate sus
   - Understanding indexes, sourcetypes, and search basics  
   - Running first searches on ingested data  
 - Status: **Successful**  
-- Evidence: [images/intro_splunk.png](images/intro_splunk.png)  
+- Evidence: [images/intro_splunk.png](images/intro_splunk.pdf)  
 
 ---
 
@@ -24,7 +24,7 @@ Through these courses, I am building skills to detect incidents, investigate sus
   - Using field-based searches to refine results  
   - Applying filters to identify suspicious or relevant events  
 - Status: **Successful**  
-- Evidence: [images/splunk_using_fields.png](images/splunk_using_fields.png)  
+- Evidence: [images/splunk_using_fields.png](images/splunk_using_fields.pdf)  
 
 ---
 
@@ -35,7 +35,7 @@ Through these courses, I am building skills to detect incidents, investigate sus
   - Building dashboards to monitor SOC activity  
   - Using visual reports to support incident investigations  
 - Status: **Successful**  
-- Evidence: [images/splunk_visualizations.png](images/splunk_visualizations.png)  
+- Evidence: [images/splunk_visualizations.png](images/splunk_visualizations.pdf)  
 
 ---
 
